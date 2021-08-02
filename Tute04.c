@@ -14,6 +14,6 @@ int main() {
    scanf("%d", &no2);
    printf("%d ", minimum(no1, no2));
    printf("%d ", maximum(no1, no2));
-   printf("%d ", multiply(no1, no2));
+   printf("%d ", sqr(no1, no2));
    return 0;
 }
